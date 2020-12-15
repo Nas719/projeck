@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d81d15b-22fa-4bc0-9c49-19f9d897b78f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lKvHKPJkeVnSsL0pKNSt9zali7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-darwin-x64/bin/node" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Node.js.script.js">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d81d15b-22fa-4bc0-9c49-19f9d897b78f" name="Default Changelist" comment="" />
+      <created>1607358507171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607358507171</updated>
+      <workItem from="1607358509249" duration="107000" />
+      <workItem from="1607362034654" duration="1656000" />
+      <workItem from="1607363908104" duration="2894000" />
+      <workItem from="1607367431705" duration="6222000" />
+      <workItem from="1608051646725" duration="1856000" />
+      <workItem from="1608053835372" duration="15000" />
+      <workItem from="1608053904681" duration="92000" />
+      <workItem from="1608054026905" duration="1296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="313" key="GridCell.Tab.0.bottom" timestamp="1608053715924">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608052999282" />
+    <state width="1750" height="313" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1608053715924" />
+    <state width="1750" height="313" key="GridCell.Tab.0.center" timestamp="1608053715924">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608052999281" />
+    <state width="1750" height="313" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1608053715924" />
+    <state width="1750" height="313" key="GridCell.Tab.0.left" timestamp="1608053715923">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608052999281" />
+    <state width="1750" height="313" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1608053715923" />
+    <state width="1750" height="313" key="GridCell.Tab.0.right" timestamp="1608053715924">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608052999282" />
+    <state width="1750" height="313" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1608053715924" />
+    <state x="484" y="302" key="IDE.errors.dialog" timestamp="1607369211287">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="484" y="302" key="IDE.errors.dialog/0.0.1792.1120@0.0.1792.1120" timestamp="1607369211287" />
+    <state x="308" y="162" width="1123" height="722" key="SettingsEditor" timestamp="1607369087102">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="308" y="162" width="1123" height="722" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1607369087102" />
+    <state x="308" y="170" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1607362064083" />
+  </component>
+</project>
